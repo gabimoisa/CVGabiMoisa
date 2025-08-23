@@ -1,4 +1,3 @@
-import React from "react"
 import GabiPhoto from "./assets/GabiPhoto.jpeg"
 
 type CVData = {
