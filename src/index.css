@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+html, body, #root {
+  @apply bg-[#0b1220] text-slate-100;
+  min-height: 100%;
+}
