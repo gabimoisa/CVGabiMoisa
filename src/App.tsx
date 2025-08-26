@@ -21,7 +21,7 @@ const cvData: CVData = {
     { label: "Email", value: "gabriel.moisa@yahoo.com" },
   ],
   about:
-    "Results-driven Software Engineer with ~4 years of progressive experience, from intern to Software Engineer at OPSWAT. Focused on clean code, security, performance, and shipping quality software in agile teams.",
+    "Software Engineer with 4 years of experience at OPSWAT, growing from Intern to Associate and Engineer roles. Skilled in building and improving scalable applications with a focus on clean code, security, and performance. Strong team player, adaptable to new technologies, and experienced in Agile. Passionate about learning, problem-solving, and delivering high-quality solutions.",
   skills: ["TypeScript", "React.js", "Tailwind CSS", "GatsbyJS", "AWS", "Chrome Extension", "JavaScript", "Team Collaboration"],
   hobbies: ["Travel", "Gym", "Running"],
   experience: [
